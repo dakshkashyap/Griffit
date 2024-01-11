@@ -1,1 +1,1 @@
-# Griffit
+# GRIFFIT
